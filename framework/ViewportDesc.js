@@ -1,0 +1,9 @@
+export default class ViewportDesc {
+    constructor(left, top, width, height) {
+        this.left = left;
+        this.top = top;
+        this.width = width;
+        this.height = height;
+    }
+}
+//# sourceMappingURL=ViewportDesc.js.map
