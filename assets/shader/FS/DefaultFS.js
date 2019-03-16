@@ -8,4 +8,3 @@ export const DefaultFS = [
     "   gl_FragColor = fragColor;",
     "}"
 ].join("\n");
-//# sourceMappingURL=DefaultFS.js.map

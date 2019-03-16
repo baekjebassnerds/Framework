@@ -16,4 +16,3 @@ export class VertexArray {
         return dataSrc;
     }
 }
-//# sourceMappingURL=Vertex.js.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"ViewportDesc.js","sourceRoot":"","sources":["../../app/framework/ViewportDesc.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,YAAY;IAM7B,YACI,IAAY,EACZ,GAAW,EACX,KAAa,EACb,MAAc;QAEd,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,GAAG,GAAG,GAAG,CAAC;QACf,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;QACnB,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;IACzB,CAAC;CACJ"}

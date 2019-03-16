@@ -68,4 +68,3 @@ export default class Graphics {
         this.context.drawArrays(this.context.TRIANGLES, 0, 3);
     }
 }
-//# sourceMappingURL=Graphics.js.map

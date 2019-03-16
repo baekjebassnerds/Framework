@@ -16,4 +16,3 @@ export class Vector3 {
     }
 }
 Vector3.ZERO = new Vector3();
-//# sourceMappingURL=Vector.js.map

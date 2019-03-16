@@ -6,4 +6,3 @@ export default class Color {
         this.a = a;
     }
 }
-//# sourceMappingURL=Color.js.map

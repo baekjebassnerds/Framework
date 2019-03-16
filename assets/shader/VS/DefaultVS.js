@@ -11,4 +11,3 @@ export const DefaultVS = [
     "   gl_Position = vec4(position, 1.0);",
     "}"
 ].join("\n");
-//# sourceMappingURL=DefaultVS.js.map

@@ -28,4 +28,3 @@ ColorVertex.VECTOR_ELEM_COUNT = 3;
 ColorVertex.COLOR_ELEM_COUNT = 4;
 ColorVertex.ELEM_COUNT = ColorVertex.VECTOR_ELEM_COUNT + ColorVertex.COLOR_ELEM_COUNT;
 ColorVertex.ELEM_SIZE = FLOAT_SIZE;
-//# sourceMappingURL=VertexLayout.js.map

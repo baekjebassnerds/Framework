@@ -6,4 +6,3 @@ export default class ViewportDesc {
         this.height = height;
     }
 }
-//# sourceMappingURL=ViewportDesc.js.map
