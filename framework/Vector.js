@@ -11,6 +11,10 @@ export class Vector3 {
         this.y = y;
         this.z = z;
     }
+    /**
+     * Vector2로 새로운 Vector3 생성.
+     * @param vector 원본 Vector2
+     */
     static FromVector2(vector) {
         return new Vector3(vector.x, vector.y, 0.0);
     }

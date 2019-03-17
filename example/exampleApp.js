@@ -23,6 +23,6 @@ function start() {
     graphics.SetVertexBuffer(triangleVertices, WebGLRenderingContext.STATIC_DRAW);
     graphics.SetVertexAttribute("position", ColorVertex.VECTOR_ELEM_COUNT, WebGLRenderingContext.FLOAT, false, ColorVertex.ELEM_COUNT * ColorVertex.ELEM_SIZE, 0);
     graphics.SetVertexAttribute("color", ColorVertex.COLOR_ELEM_COUNT, WebGLRenderingContext.FLOAT, false, ColorVertex.ELEM_COUNT * ColorVertex.ELEM_SIZE, ColorVertex.VECTOR_ELEM_COUNT * ColorVertex.ELEM_SIZE);
-    graphics.Draw();
+    graphics.Draw(WebGLRenderingContext.TRIANGLES, 0, 3);
 }
 window.onload = start;

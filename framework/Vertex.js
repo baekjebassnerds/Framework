@@ -5,6 +5,9 @@ export class VertexArray {
             * vertices[0].GetElemSize()
             * vertices.length;
     }
+    /**
+     * 정점 배열을 Float32Array형으로 반환.
+     */
     GetDataSource() {
         let dataSrc = new Float32Array(this.dataSize);
         let i = 0;
